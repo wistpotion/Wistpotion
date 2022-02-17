@@ -26,7 +26,7 @@ Collaborative projects are always a bop, so please contact me about any of that!
 Makeup (have been to lazy to try before)  
 Small projects have are a bit more difficult or have novelty to them (novel for me so to speak)  
 Any project where I get to do problem solving, then I probably want to do it!  
-Learn some instruments (currently on bass and synth / keyboard)
+Learn some instruments (currently on bass and synth / keyboard)  
 A more low level language like C / C++ / Rust (seems cool and really really fast)  
 
 #### How to reach me
