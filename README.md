@@ -32,7 +32,6 @@ A more low level language like C / C++ / Rust (seems cool and really really fast
 #### How to reach me
 Feel free to yell at:  
 discord (Wistpotion#7139)  
-twitter (@wistpotion)  
 gmail (guess three times, you can't get it wrong (ok you might actually so here it is (wistpotion@gmail.com (oh recursive paranthesis how interesting)))) (actually all those in the end were pretty ugly, might reformat)  
 
 
